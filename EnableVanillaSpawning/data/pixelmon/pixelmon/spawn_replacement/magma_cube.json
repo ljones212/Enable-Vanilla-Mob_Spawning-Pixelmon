@@ -1,0 +1,13 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "slugma",
+      "magcargo"
+    ]
+  }
+}

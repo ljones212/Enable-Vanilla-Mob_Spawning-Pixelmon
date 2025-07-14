@@ -1,0 +1,22 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "froakie",
+      "frogadier",
+      "greninja",
+      "poliwhirl",
+      "poliwrath",
+      "politoed",
+      "palpitoad",
+      "seismitoad",
+      "bellibolt",
+      "croagunk",
+      "toxicroak"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "meowth lvl:5",
+      "shinx lvl:5"
+    ]
+  }
+}

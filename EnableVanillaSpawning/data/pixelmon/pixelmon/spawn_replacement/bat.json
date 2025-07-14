@@ -1,0 +1,17 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "woobat",
+      "crobat",
+      "golbat",
+      "noibat",
+      "zubat",
+      "swoobat"
+    ]
+  }
+}

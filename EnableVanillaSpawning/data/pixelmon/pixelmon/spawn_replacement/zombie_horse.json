@@ -1,0 +1,15 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "rapidash",
+      "ponyta",
+      "mudsdale",
+      "mudbray"
+    ]
+  }
+}

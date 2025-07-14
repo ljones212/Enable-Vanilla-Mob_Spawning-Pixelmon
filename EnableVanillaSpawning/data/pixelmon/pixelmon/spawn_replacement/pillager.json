@@ -1,0 +1,10 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:villager",
+    "preset": "pixelmon:trainers/bugcatcher"
+  }
+}

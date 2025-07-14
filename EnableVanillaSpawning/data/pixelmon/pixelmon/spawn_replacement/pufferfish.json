@@ -1,0 +1,14 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "qwilfish",
+      "qwilfish form:hisuian",
+      "overqwil"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "detection": {
+    "type": "pixelmon:simple",
+    "types": []
+  },
+  "replacement": {
+    "type": "pixelmon:simple",
+    "replacements": [
+      "dhelmise",
+      "basculin",
+      "binacle",
+      "barbaracle",
+      "mareanie",
+      "toxapex"
+    ]
+  }
+}
